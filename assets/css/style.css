@@ -1250,7 +1250,7 @@ er-select: none;
 }
 
 .shopnow{
-
+    background: -webkit-linear-gradient(left, rgb(0, 77, 122) 0%, rgb(0, 135, 147) 100%);
   background-color:#008793 ;
   color: #fff;   
   border-color: #fff; 
@@ -1262,8 +1262,8 @@ er-select: none;
 }
 
 .shopnow:hover{
-  background-color: rgba(0,0,0,0); 
-  color: #008793; 
+  background: #fff; 
+  color: #004d7a;
   border-color: #fff; 
   font-family: 'Montserrat';
   border-style: solid; 
