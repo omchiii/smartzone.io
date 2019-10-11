@@ -119,6 +119,10 @@ h6 {
 .section-content {
   padding: 100px 0px;
 }
+.section-content2 {
+  padding: 20px 0px;
+}
+
 .orange-gred {
   background: #008793;
   background-clip: text;
@@ -713,7 +717,6 @@ Start of testimonial section
 
 .quate-icon {
   height: 40px;
-  width: 40px;
   border-radius: 100%;
   line-height: 40px;
   position: absolute;
