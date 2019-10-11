@@ -1,16 +1,12 @@
 /*----------------------------------------------------------------------- 
 table of content
 -------------------------------------------------------------------------* /
-
 "Melissa - is a Ultimate Multipurpose  Premium  HTML5 Responsive Templeate by HTMLmate Team. You can use this 
 for anykind of multi-purpose Bussiness"
-
 File:           CSS Base
 Version:        1.1
 Last change:     
 Author:         HTMLmate
-
-
 /* ----------------------------
 * 1 = Fonts 
 * 2 = Global 
@@ -25,12 +21,9 @@ Author:         HTMLmate
 * 11 = Partner 
 * 12 = Footer
 * 13 = page head section
-
 /*----------------------------------------------------------------------- 
 End of Table of Content
 -------------------------------------------------------------------------* /
-
-
 /*----------------------------------------------------------------------- 
 fonts [*1]
 -------------------------------------------------------------------------*/
@@ -981,9 +974,9 @@ Start of home-2 banner
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  padding-bottom: 120px;
+  padding-bottom: 330px;
   overflow: visible;
-  padding-top: 0px;
+  padding-top: 340px;
   background: rgba(0, 0, 0, 0) -webkit-linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #81ad1d);
   background: rgba(0, 0, 0, 0)
     linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #81ad1d);
