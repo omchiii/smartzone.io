@@ -117,7 +117,10 @@ h6 {
 }
 
 .orange-gred {
-  background: #000000;
+  background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -126,7 +129,7 @@ h6 {
   color: #040404;
 }
 .pink {
-  color: #008793;
+  color: #0F2027; 
 }
 
 
@@ -315,7 +318,10 @@ Start of features section
 .features-icon:after,
 .extra-features-section .extra-left .features-icon:after,
 .extra-features-section .extra-right .features-icon:after {
-  background: #000000;
+  background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+;
 }
 .features-text-dec {
   max-width: 350px;
@@ -424,8 +430,10 @@ Start of how to install
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #81ad1d) repeat scroll 0 0;
-  background: rgba(0, 0, 0, 0) linear-gradient(to right top, #051937, #004d7a, #008793, #008793, #81ad1d) repeat scroll 0 0;
+  background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 .how-to-install .section-content {
   padding-bottom: 150px;
@@ -458,16 +466,10 @@ Start of how to install
   display: block;
   width: 80px;
   height: 80px;
-  background: -moz-linear-gradient(left, #004d7a 0%, #008793 100%);
-  background: -webkit-gradient(
-    left top,
-    right top,
-    color-stop(0%, #004d7a),
-    color-stop(100%, #ff6a00)
-  );
-  background: -webkit-linear-gradient(left, #004d7a 0%, #008793 100%);
-  background: -o-linear-gradient(left, #004d7a 0%, #008793 100%);
-  background: -ms-linear-gradient(left, #004d7a 0%, #008793 100%);
+  background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   border-radius: 50%;
   -webkit-animation: video-icon 1500ms ease-out infinite;
   animation: video-icon 1500ms ease-out infinite;
@@ -889,16 +891,10 @@ Start of contact section
 }
 .submit-btn button {
   border: none;
-  background: -moz-linear-gradient(left, #004d7a 0%, #008793 100%);
-  background: -webkit-gradient(
-    left top,
-    right top,
-    color-stop(0%, #004d7a),
-    color-stop(100%, #008793)
-  );
-  background: -webkit-linear-gradient(left, #004d7a 0%, #008793 100%);
-  background: -o-linear-gradient(left, #004d7a 0%, #008793 100%);
-  background: -ms-linear-gradient(left, #004d7a 0%, #008793 100%);
+  background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   color: #fff;
 }
 /*----------------------------------------------------------------------- 
@@ -975,8 +971,10 @@ Start of home-2 banner
   padding-bottom: 330px;
   overflow: visible;
   padding-top: 340px;
-  background: #000000;
-  }
+  background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right , #0f2027, #203a43, #2c5364); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
 .banner-area-head h1 {
   font-size: 2.5em;
   color: #fff;
@@ -1220,9 +1218,8 @@ er-select: none;
 }
 
 .download-store li h2{
-
-  background-color:#fff ;
-  color: #004d7a;   
+  color: #0f2027;
+  background-color:#fff ;   
   border-color: #fff; 
   font-family: 'Montserrat';
   font-size: 1.6em; 
@@ -1242,8 +1239,10 @@ er-select: none;
 }
 
 .shopnow{
-    background: #000000;
-  background-color:#000000 ;
+    background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   color: #fff;   
   border-color: #fff; 
   font-family: 'Montserrat';
@@ -1255,7 +1254,7 @@ er-select: none;
 
 .shopnow:hover{
   background: #fff; 
-  color: #004d7a;
+  color: #0f2027;
   border-color: #fff; 
   font-family: 'Montserrat';
   border-style: solid; 
