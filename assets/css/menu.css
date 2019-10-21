@@ -5,8 +5,7 @@
   z-index: 999;
 }
 .menu-bg-overlay {
-  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(to right top, #004d7a 5%, #008793, #00aa72, #81ad1d) repeat scroll 0 0;
-  background: rgba(0, 0, 0, 0) linear-gradient(to right top, #004d7a 5%, #008793, #00aa72, #81ad1d) repeat scroll 0 0 ;
+  background: #000000;
   transition: .3s all ease-in-out;
 }
 .navbar-default .navbar-brand {
