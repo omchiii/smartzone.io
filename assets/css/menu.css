@@ -185,8 +185,7 @@ box-shadow: 0 0 20px -10px rgba(0,0,0,0.8);
     float: none;
     color: #737d8b;
     border-top: 1px solid #ACAEB2;
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #004d7a, #008793, #00aa72, #81ad1d) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #004d7a, #008793, #00aa72, #81ad1d) repeat scroll 0 0;
+    
   }
   #main-nav li:first-child {
     border: none;
