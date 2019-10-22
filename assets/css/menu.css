@@ -124,7 +124,7 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
 }
 .main-menu-container.tbg.navbar-fixed-top.menu-bg-overlay {
   padding-top: 0;
-  box-shadow: 0 0 20px -10px rgba(0,0,0,0.8);
+box-shadow: 0 0 20px -10px rgba(0,0,0,0.8);
 }
 .main-menu-container.tbg.navbar-fixed-top.menu-bg-overlay a.navbar-brand.text-uppercase {
   padding-top: 13px;
